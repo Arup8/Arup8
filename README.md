@@ -1,5 +1,5 @@
  
- # Hello I'm Nilankan ([@Arup8](https://github.com/Arup8))
+ # Hello I'm Arup ([@Arup8](https://github.com/Arup8))
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
  
