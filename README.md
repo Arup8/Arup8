@@ -8,7 +8,7 @@
 ***👦 About Me:***
 - 👨‍💻 Wanna be a successful Software Enginner.
 - 🤵 Currently, I'm a student. <!--working as a _jobPosition_ in _companyName_.-->
-- 🌱 I’m currently learning Web Development, AI, ML and doing coursework.
+- 🌱 I’m currently learning Web Development, App Development, AI, ML and doing coursework.
 - 💞️ I’m looking to collaborate on impactful & interesting projects.
 - 🤔 Innovative thinker, I love this!
 - 📖 Curious learner, Tech geek.
