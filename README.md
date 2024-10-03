@@ -26,6 +26,7 @@
 
 ***👀 I’m interested in:***
 - Web Development
+- App Development
 - Data Analytics
 - AI & Machine Learning
 - DSA
